@@ -26,7 +26,7 @@ title: Welcome to Notes In Public
 - [[Sistemi Operativi 1 (class)|Sistemi Operativi 1]]
 - [[Basi di Dati 1 (class)|Basi di Dati 1]]
 - [[Calcolo delle Probabilità (class)|Calcolo delle Probabilità]]
-- [[Algebra (class)|Algebra]]
+- [Algebra](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## 👨‍💻Tecnical Notes

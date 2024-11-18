@@ -43,7 +43,7 @@ title: Welcome to Notes In Public
 ## 🪴 My Personal Garden
 
 >**Personal Projects:**
-- [[Monthly Log]]
+- [[Monthly Logs]]
 - [[My Recipe Book]]
 - [[Product usage analysis]]
 - [[My Resonance Calendar]]

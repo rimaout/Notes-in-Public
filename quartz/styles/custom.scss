@@ -9,12 +9,20 @@ img {
     margin-right: auto;
 }
 
-// set italic color
+// set italic
 em {
-    color: var(--italic_color);
+    background-color: var(--highlight);
+    padding: 1px;
+    border-radius: 4.5px;
+    font-style: normal; /* Remove italic formatting */
 }
 
 // set bold color
 strong, .page article p > strong {
-    color: var(--bold_color);
+    color: var(--tertiary);
+}
+
+// set bold italic
+em strong, strong em {
+    color: var(--darkgray);
 }

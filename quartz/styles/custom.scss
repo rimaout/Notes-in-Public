@@ -11,10 +11,10 @@ img {
 
 // set italic color
 em {
-    color: var(--tertiary);
+    color: var(--italic_color);
 }
 
 // set bold color
-strong {
-    color: var(--tertiary);
+strong, .page article p > strong {
+    color: var(--bold_color);
 }

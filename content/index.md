@@ -3,7 +3,7 @@ title: Welcome to Notes In Public
 ---
 👋 ***Hi***, I'm ***Matteo***, a Computer Science student. I'm using this website to share my notes and thoughts about the subjects I'm studying. I hope you find them useful.
 
->***Warning:*** This website is a work in progress, so some notes may be wrong, broken, incomplete or missing. So use them at your own risk!! If you find any errors, [please let me know.](https://github.com/rimaout/Notes-In-Public/issues/new/choose)
+>***Warning:*** This website is a work in progress, some notes may be wrong, incomplete or missing. Use them at your own risk!! If you find any errors, [please let me know.](https://github.com/rimaout/Notes-In-Public/issues/new/choose)
 
 ---
 

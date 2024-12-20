@@ -7,6 +7,12 @@ title: Welcome to Notes In Public
 
 ---
 
+## 🪴 My Personal Garden
+- [[Monthly Logs]]
+- [[Product usage analysis]]
+- [[My Resonance Calendar]]
+- [[My Recipe Book]]
+
 ## 📚 Univsersity Notes
 
 >***First year, first semester:***
@@ -28,7 +34,6 @@ title: Welcome to Notes In Public
 - [[Calcolo delle Probabilità (class)|Calcolo delle Probabilità]]
 - [Algebra](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-
 ## 👨‍💻Tecnical Notes
 
 >***Programming  Languages:***
@@ -37,13 +42,3 @@ title: Welcome to Notes In Public
 - [[Rust MOC|Rust]]
 - [[Java MOC|Java]]
 - [[MIPS Assembly MOC|MIPS Assembly]]
-
----
-
-## 🪴 My Personal Garden
-
->***Personal Projects:***
-- [[Monthly Logs]]
-- [[My Recipe Book]]
-- [[Product usage analysis]]
-- [[My Resonance Calendar]]
